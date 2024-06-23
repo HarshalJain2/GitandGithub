@@ -1,7 +1,7 @@
 # GitandGithub
 Git And Github configuration
 <br>
-Author: Harshal Jain
+Author: Harshal Jain (Data Scientist)
 <br>
 
 All Basics About Setup
